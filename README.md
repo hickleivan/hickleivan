@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...sdfsdf6
 - 📫 How to reach me ...
 - 😄 Pronouns: 9
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...62
 26
 <!---
 hickleivan/hickleivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
